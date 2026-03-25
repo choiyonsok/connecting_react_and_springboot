@@ -20,5 +20,8 @@ And modified with the help of Claude.ai.
 <img width="975" height="136" alt="스크린샷 2026-03-23 16-03-51" src="https://github.com/user-attachments/assets/9c66c3e3-714c-4c40-8fd1-cf147fb37342" />
 
 * web page
-<img width="1279" height="455" alt="스크린샷 2026-03-23 15-58-51" src="https://github.com/user-attachments/assets/f52cef0e-1fa3-44e3-b751-4f182495b68c" />
+<img width="1215" height="451" alt="스크린샷 2026-03-25 16-55-17" src="https://github.com/user-attachments/assets/d5f61d6c-7ef7-41db-98f4-934127d89217" />
+
+* Downloaded to excel
+<img width="1197" height="669" alt="스크린샷 2026-03-25 16-56-04" src="https://github.com/user-attachments/assets/2cc01d35-c07d-45ff-b9c8-b2219317b6c4" />
 
